@@ -4,9 +4,12 @@
 ***
 
 ### Simple Online Messenger (Using the Java) <br>
-<iframe width="687" height="374" src="https://www.youtube.com/embed/SbU2d4gfq2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="687" height="374" 
+        src="https://www.youtube.com/embed/SbU2d4gfq2Y" 
+        title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen></iframe>
 <br>
-***
 
 ## Contents
 1. Register / Withdrawal
